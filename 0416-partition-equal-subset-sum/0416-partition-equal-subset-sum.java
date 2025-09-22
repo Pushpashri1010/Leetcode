@@ -9,7 +9,8 @@ class Solution {
             int target=sum/2;
             boolean dp[]=new boolean[target+1];
             dp[0]=true;
-            for(int j=0;j<nums.length;j++){
+            int j=0;
+            while(j<nums.length){
             for(int i=target;i>=nums[j];i--){
                 int t=i-nums[j];
                 if(dp[t]==true){
@@ -17,6 +18,7 @@ class Solution {
                   
                 }
             }
+            j=j+1;
             }
             
             if(dp[target]==true) return true;
