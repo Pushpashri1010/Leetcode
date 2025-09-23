@@ -3,12 +3,13 @@ class Solution {
         if(ind==nums.length){
             if(!result.contains(temp)){
                 result.add(new ArrayList<>(temp));
-            }
+             }
             return;
         }
         temp.add(nums[ind]);
         sub(result,temp,nums,ind+1);
         temp.remove(temp.size()-1);
+        if(ind<nums.length-1 && nums[ind]==nums[ind+1]) ind=ind+1;
         sub(result,temp,nums,ind+1);
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
