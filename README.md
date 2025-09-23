@@ -17,5 +17,14 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pushpashri1010/Leetcode/tree/master/0078-subsets) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pushpashri1010/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pushpashri1010/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
