@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -40,11 +41,13 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Pushpashri1010/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Pushpashri1010/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -55,4 +58,16 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Pushpashri1010/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
