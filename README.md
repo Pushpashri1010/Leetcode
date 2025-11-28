@@ -45,12 +45,14 @@
 | [0207-course-schedule](https://github.com/Pushpashri1010/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Pushpashri1010/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pushpashri1010/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -77,4 +80,13 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pushpashri1010/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
