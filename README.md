@@ -23,6 +23,7 @@
 | [0040-combination-sum-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Pushpashri1010/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Backtracking
 |  |
@@ -42,6 +43,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pushpashri1010/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pushpashri1010/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -49,6 +51,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pushpashri1010/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -89,4 +92,12 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
