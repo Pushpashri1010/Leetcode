@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@
 | [0039-combination-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Pushpashri1010/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -33,6 +35,7 @@
 | [0040-combination-sum-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Pushpashri1010/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Pushpashri1010/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
@@ -43,6 +46,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pushpashri1010/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
@@ -103,6 +107,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
