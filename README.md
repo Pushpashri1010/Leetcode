@@ -28,6 +28,7 @@
 | [0090-subsets-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0207-course-schedule](https://github.com/Pushpashri1010/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -61,6 +63,7 @@
 | [0207-course-schedule](https://github.com/Pushpashri1010/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph
 |  |
@@ -104,11 +107,13 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
