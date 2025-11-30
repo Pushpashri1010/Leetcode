@@ -18,6 +18,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pushpashri1010/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pushpashri1010/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -71,6 +73,7 @@
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pushpashri1010/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Pushpashri1010/Leetcode/tree/master/0994-rotting-oranges) |
 ## Graph
@@ -79,6 +82,7 @@
 | [0133-clone-graph](https://github.com/Pushpashri1010/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Pushpashri1010/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pushpashri1010/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -133,4 +137,12 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pushpashri1010/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pushpashri1010/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
