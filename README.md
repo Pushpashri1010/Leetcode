@@ -19,6 +19,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pushpashri1010/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pushpashri1010/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Pushpashri1010/Leetcode/tree/master/0994-rotting-oranges) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pushpashri1010/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0207-course-schedule](https://github.com/Pushpashri1010/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pushpashri1010/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pushpashri1010/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Topological Sort
 |  |
 | ------- |
