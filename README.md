@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Pushpashri1010/Leetcode/tree/master/0078-subsets) |
@@ -147,6 +148,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pushpashri1010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
