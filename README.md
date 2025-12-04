@@ -160,8 +160,13 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pushpashri1010/Leetcode/tree/master/0050-powx-n) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pushpashri1010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pushpashri1010/Leetcode/tree/master/0050-powx-n) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pushpashri1010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
