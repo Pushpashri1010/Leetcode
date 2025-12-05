@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pushpashri1010/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Pushpashri1010/Leetcode/tree/master/0091-decode-ways) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Pushpashri1010/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Pushpashri1010/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Pushpashri1010/Leetcode/tree/master/0078-subsets) |
@@ -192,4 +194,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Pushpashri1010/Leetcode/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pushpashri1010/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
