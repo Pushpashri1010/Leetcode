@@ -178,6 +178,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Pushpashri1010/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Pushpashri1010/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Pushpashri1010/Leetcode/tree/master/0062-unique-paths) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pushpashri1010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
