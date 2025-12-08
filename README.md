@@ -14,6 +14,7 @@
 | [0014-longest-common-prefix](https://github.com/Pushpashri1010/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Pushpashri1010/Leetcode/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@
 | [0091-decode-ways](https://github.com/Pushpashri1010/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pushpashri1010/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -39,6 +41,7 @@
 | [0078-subsets](https://github.com/Pushpashri1010/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Pushpashri1010/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -201,4 +205,9 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pushpashri1010/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
