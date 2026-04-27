@@ -13,6 +13,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pushpashri1010/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Pushpashri1010/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Pushpashri1010/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Pushpashri1010/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Pushpashri1010/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pushpashri1010/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Pushpashri1010/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Pushpashri1010/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pushpashri1010/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/Pushpashri1010/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
@@ -186,6 +188,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Pushpashri1010/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Pushpashri1010/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Pushpashri1010/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Pushpashri1010/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Pushpashri1010/Leetcode/tree/master/0062-unique-paths) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pushpashri1010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
