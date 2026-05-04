@@ -31,6 +31,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
+| [0396-rotate-function](https://github.com/Pushpashri1010/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pushpashri1010/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -50,6 +51,7 @@
 | [0090-subsets-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
+| [0396-rotate-function](https://github.com/Pushpashri1010/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Pushpashri1010/Leetcode/tree/master/0994-rotting-oranges) |
@@ -197,6 +199,7 @@
 | [0048-rotate-image](https://github.com/Pushpashri1010/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Pushpashri1010/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Pushpashri1010/Leetcode/tree/master/0062-unique-paths) |
+| [0396-rotate-function](https://github.com/Pushpashri1010/Leetcode/tree/master/0396-rotate-function) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pushpashri1010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
