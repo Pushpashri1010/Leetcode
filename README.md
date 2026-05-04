@@ -43,6 +43,7 @@
 | [0014-longest-common-prefix](https://github.com/Pushpashri1010/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Pushpashri1010/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pushpashri1010/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Pushpashri1010/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
@@ -168,6 +169,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pushpashri1010/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pushpashri1010/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
@@ -192,6 +194,7 @@
 | [0007-reverse-integer](https://github.com/Pushpashri1010/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Pushpashri1010/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Pushpashri1010/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Pushpashri1010/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Pushpashri1010/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Pushpashri1010/Leetcode/tree/master/0062-unique-paths) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pushpashri1010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
