@@ -213,6 +213,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pushpashri1010/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Pushpashri1010/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pushpashri1010/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Pushpashri1010/Leetcode/tree/master/0061-rotate-list) |
+| [0203-remove-linked-list-elements](https://github.com/Pushpashri1010/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## String Matching
 |  |
 | ------- |
