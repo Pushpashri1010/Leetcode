@@ -23,6 +23,7 @@
 | [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,4 +241,8 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pushpashri1010/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Pushpashri1010/Leetcode/tree/master/0061-rotate-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
