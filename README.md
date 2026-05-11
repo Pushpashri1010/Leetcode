@@ -62,6 +62,7 @@
 | [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Pushpashri1010/Leetcode/tree/master/0994-rotting-oranges) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pushpashri1010/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Pushpashri1010/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pushpashri1010/Leetcode/tree/master/0054-spiral-matrix) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Pushpashri1010/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Linked List
 |  |
 | ------- |
