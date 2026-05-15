@@ -67,6 +67,7 @@
 | [0994-rotting-oranges](https://github.com/Pushpashri1010/Leetcode/tree/master/0994-rotting-oranges) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pushpashri1010/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pushpashri1010/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0133-clone-graph](https://github.com/Pushpashri1010/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
