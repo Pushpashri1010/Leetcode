@@ -46,6 +46,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Pushpashri1010/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Pushpashri1010/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pushpashri1010/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Pushpashri1010/Leetcode/tree/master/0048-rotate-image) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pushpashri1010/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushpashri1010/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
