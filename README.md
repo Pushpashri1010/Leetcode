@@ -55,6 +55,7 @@
 | [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushpashri1010/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
 | [0396-rotate-function](https://github.com/Pushpashri1010/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushpashri1010/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
