@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Pushpashri1010/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pushpashri1010/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Pushpashri1010/Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Pushpashri1010/Leetcode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Pushpashri1010/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
 ## String
@@ -21,6 +22,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pushpashri1010/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Pushpashri1010/Leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Pushpashri1010/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
