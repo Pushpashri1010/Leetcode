@@ -12,6 +12,7 @@
 | [0344-reverse-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Pushpashri1010/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushpashri1010/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pushpashri1010/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Pushpashri1010/Leetcode/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Pushpashri1010/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushpashri1010/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
