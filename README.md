@@ -13,6 +13,7 @@
 | [0455-assign-cookies](https://github.com/Pushpashri1010/Leetcode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushpashri1010/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pushpashri1010/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -274,6 +275,7 @@
 | [0061-rotate-list](https://github.com/Pushpashri1010/Leetcode/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Pushpashri1010/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushpashri1010/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pushpashri1010/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -284,4 +286,8 @@
 | [0175-combine-two-tables](https://github.com/Pushpashri1010/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Pushpashri1010/Leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Pushpashri1010/Leetcode/tree/master/0178-rank-scores) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pushpashri1010/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
