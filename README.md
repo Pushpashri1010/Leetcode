@@ -30,6 +30,7 @@
 | [0344-reverse-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0796-rotate-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Pushpashri1010/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -265,6 +266,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pushpashri1010/Leetcode/tree/master/0054-spiral-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pushpashri1010/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/Pushpashri1010/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Linked List
 |  |
 | ------- |
