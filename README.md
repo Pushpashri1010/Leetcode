@@ -40,6 +40,7 @@
 | [0063-unique-paths-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/Pushpashri1010/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pushpashri1010/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0396-rotate-function](https://github.com/Pushpashri1010/Leetcode/tree/master/0396-rotate-function) |
@@ -65,6 +66,7 @@
 | [0079-word-search](https://github.com/Pushpashri1010/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pushpashri1010/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushpashri1010/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
