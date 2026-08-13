@@ -73,6 +73,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Pushpashri1010/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Pushpashri1010/Leetcode/tree/master/0217-contains-duplicate) |
 | [0396-rotate-function](https://github.com/Pushpashri1010/Leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Pushpashri1010/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -186,6 +187,7 @@
 | [0133-clone-graph](https://github.com/Pushpashri1010/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Pushpashri1010/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Pushpashri1010/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Pushpashri1010/Leetcode/tree/master/0389-find-the-difference) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -193,6 +195,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pushpashri1010/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Pushpashri1010/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Pushpashri1010/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Pushpashri1010/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Pushpashri1010/Leetcode/tree/master/0455-assign-cookies) |
