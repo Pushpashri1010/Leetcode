@@ -84,6 +84,7 @@
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pushpashri1010/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pushpashri1010/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [0062-unique-paths](https://github.com/Pushpashri1010/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Pushpashri1010/Leetcode/tree/master/0066-plus-one) |
 | [0396-rotate-function](https://github.com/Pushpashri1010/Leetcode/tree/master/0396-rotate-function) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pushpashri1010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
