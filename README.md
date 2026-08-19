@@ -72,6 +72,7 @@
 | [0139-word-break](https://github.com/Pushpashri1010/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pushpashri1010/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pushpashri1010/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/Pushpashri1010/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Pushpashri1010/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Pushpashri1010/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Pushpashri1010/Leetcode/tree/master/0217-contains-duplicate) |
@@ -197,6 +198,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Pushpashri1010/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Pushpashri1010/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pushpashri1010/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Pushpashri1010/Leetcode/tree/master/0389-find-the-difference) |
@@ -317,4 +319,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pushpashri1010/Leetcode/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Pushpashri1010/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Pushpashri1010/Leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Pushpashri1010/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
