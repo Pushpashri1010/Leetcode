@@ -250,6 +250,7 @@
 | [0066-plus-one](https://github.com/Pushpashri1010/Leetcode/tree/master/0066-plus-one) |
 | [0396-rotate-function](https://github.com/Pushpashri1010/Leetcode/tree/master/0396-rotate-function) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pushpashri1010/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pushpashri1010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
