@@ -81,6 +81,7 @@
 | [0414-third-maximum-number](https://github.com/Pushpashri1010/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Pushpashri1010/Leetcode/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/Pushpashri1010/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Pushpashri1010/Leetcode/tree/master/0994-rotting-oranges) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pushpashri1010/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -338,4 +339,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pushpashri1010/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Pushpashri1010/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
