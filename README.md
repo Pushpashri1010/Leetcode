@@ -87,6 +87,7 @@
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pushpashri1010/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pushpashri1010/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3151-special-array-i](https://github.com/Pushpashri1010/Leetcode/tree/master/3151-special-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Backtracking
 |  |
