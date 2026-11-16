@@ -11,6 +11,7 @@
 | [0125-valid-palindrome](https://github.com/Pushpashri1010/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Pushpashri1010/Leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0881-boats-to-save-people](https://github.com/Pushpashri1010/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushpashri1010/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -32,6 +33,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Pushpashri1010/Leetcode/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Pushpashri1010/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0796-rotate-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Pushpashri1010/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -201,6 +203,7 @@
 | [0169-majority-element](https://github.com/Pushpashri1010/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pushpashri1010/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Pushpashri1010/Leetcode/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0567-permutation-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pushpashri1010/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Sorting
@@ -348,6 +351,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pushpashri1010/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Pushpashri1010/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Timsort
 |  |
