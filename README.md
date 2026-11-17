@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pushpashri1010/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Pushpashri1010/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pushpashri1010/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pushpashri1010/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Pushpashri1010/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Pushpashri1010/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pushpashri1010/Leetcode/tree/master/0344-reverse-string) |
@@ -61,6 +62,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Pushpashri1010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Pushpashri1010/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Pushpashri1010/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pushpashri1010/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pushpashri1010/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pushpashri1010/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0039-combination-sum) |
