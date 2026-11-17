@@ -85,6 +85,7 @@
 | [0414-third-maximum-number](https://github.com/Pushpashri1010/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Pushpashri1010/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Pushpashri1010/Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Pushpashri1010/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Pushpashri1010/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Pushpashri1010/Leetcode/tree/master/0695-max-area-of-island) |
 | [0881-boats-to-save-people](https://github.com/Pushpashri1010/Leetcode/tree/master/0881-boats-to-save-people) |
